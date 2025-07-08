@@ -7,51 +7,51 @@
 
 Аугментации отдельно
 
-![Иллюстрация к проекту](https://github.com/ViktoriaVyshedko/Study-practic5/raw/main/homework/results/standard_augmentation/Garowe_separately.png)
+![Иллюстрация к проекту](https://github.com/ViktoriaVyshedko/Study-practic5/raw/main/results/standard_augmentation/Garowe_separately.png)
 
 Аугментации вместе
 
-![Иллюстрация к проекту](https://github.com/ViktoriaVyshedko/Study-practic5/raw/main/homework/results/standard_augmentation/Garowe_together.png)
+![Иллюстрация к проекту](https://github.com/ViktoriaVyshedko/Study-practic5/raw/main/results/standard_augmentation/Garowe_together.png)
 
 Класс Генос
 
 Аугментации отдельно
 
-![Иллюстрация к проекту](https://github.com/ViktoriaVyshedko/Study-practic5/raw/main/homework/results/standard_augmentation/Genos_separately.png)
+![Иллюстрация к проекту](https://github.com/ViktoriaVyshedko/Study-practic5/raw/main/results/standard_augmentation/Genos_separately.png)
 
 Аугментации вместе 
 
-![Иллюстрация к проекту](https://github.com/ViktoriaVyshedko/Study-practic5/raw/main/homework/results/standard_augmentation/Genos_together.png)
+![Иллюстрация к проекту](https://github.com/ViktoriaVyshedko/Study-practic5/raw/main/results/standard_augmentation/Genos_together.png)
 
 Класс Сайтама
 
 Аугментации отдельно
 
-![Иллюстрация к проекту](https://github.com/ViktoriaVyshedko/Study-practic5/raw/main/homework/results/standard_augmentation/Saitama_separately.png)
+![Иллюстрация к проекту](https://github.com/ViktoriaVyshedko/Study-practic5/raw/main/results/standard_augmentation/Saitama_separately.png)
 
 Аугментации вместе
 
-![Иллюстрация к проекту](https://github.com/ViktoriaVyshedko/Study-practic5/raw/main/homework/results/standard_augmentation/Saitama_together.png)
+![Иллюстрация к проекту](https://github.com/ViktoriaVyshedko/Study-practic5/raw/main/results/standard_augmentation/Saitama_together.png)
 
 Класс Соник
 
 Аугментации отдельно
 
-![Иллюстрация к проекту](https://github.com/ViktoriaVyshedko/Study-practic5/raw/main/homework/results/standard_augmentation/Sonic_separately.png)
+![Иллюстрация к проекту](https://github.com/ViktoriaVyshedko/Study-practic5/raw/main/results/standard_augmentation/Sonic_separately.png)
 
 Аугментации вместе
 
-![Иллюстрация к проекту](https://github.com/ViktoriaVyshedko/Study-practic5/raw/main/homework/results/standard_augmentation/Sonic_together.png)
+![Иллюстрация к проекту](https://github.com/ViktoriaVyshedko/Study-practic5/raw/main/results/standard_augmentation/Sonic_together.png)
 
 Класс Татсумаки
 
 Аугментации отдельно
 
-![Иллюстрация к проекту](https://github.com/ViktoriaVyshedko/Study-practic5/raw/main/homework/results/standard_augmentation/Tatsumaki_separately.png)
+![Иллюстрация к проекту](https://github.com/ViktoriaVyshedko/Study-practic5/raw/main/results/standard_augmentation/Tatsumaki_separately.png)
 
 Аугментации вместе
 
-![Иллюстрация к проекту](https://github.com/ViktoriaVyshedko/Study-practic5/raw/main/homework/results/standard_augmentation/Tatsumaki_together.png)
+![Иллюстрация к проекту](https://github.com/ViktoriaVyshedko/Study-practic5/raw/main/results/standard_augmentation/Tatsumaki_together.png)
 
 Задание 2: Кастомные аугментации
 
@@ -59,7 +59,7 @@
 
 Cлучайное размытие
 
-![Иллюстрация к проекту](https://github.com/ViktoriaVyshedko/Study-practic5/raw/main/homework/results/custom_augmentation/Garowe_blur.png)
+![Иллюстрация к проекту](https://github.com/ViktoriaVyshedko/Study-practic5/raw/main/results/custom_augmentation/Garowe_blur.png)
 
 Случайная перспектива
 
@@ -88,4 +88,4 @@ Elastic Transform
 
 Визуализация распределения размеров и гистограммы по классам
 
-![Иллюстрация к проекту](https://github.com/ViktoriaVyshedko/Study-practic5/raw/main/homework/results/Tatsumaki_together.png)
+![Иллюстрация к проекту](https://github.com/ViktoriaVyshedko/Study-practic5/raw/main/results/Tatsumaki_together.png)
