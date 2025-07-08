@@ -63,21 +63,39 @@ Cлучайное размытие
 
 Случайная перспектива
 
+![Иллюстрация к проекту](https://github.com/ViktoriaVyshedko/Study-practic5/raw/main/results/custom_augmentation/Garowe_perspective.png)
+
 Случайная яркость/контрастность
+
+![Иллюстрация к проекту](https://github.com/ViktoriaVyshedko/Study-practic5/raw/main/results/custom_augmentation/Garowe_brightnessContrast.png)
 
 Гауссов шум
 
+![Иллюстрация к проекту](https://github.com/ViktoriaVyshedko/Study-practic5/raw/main/results/custom_augmentation/Garowe_noise.png)
+
 Random Erasing
+
+![Иллюстрация к проекту](https://github.com/ViktoriaVyshedko/Study-practic5/raw/main/results/custom_augmentation/Garowe_erasing.png)
 
 CutOut
 
+![Иллюстрация к проекту](https://github.com/ViktoriaVyshedko/Study-practic5/raw/main/results/custom_augmentation/Garowe_cut.png)
+
 Solarize
+
+![Иллюстрация к проекту](https://github.com/ViktoriaVyshedko/Study-practic5/raw/main/results/custom_augmentation/Garowe_solarize.png)
 
 Posterize
 
+![Иллюстрация к проекту](https://github.com/ViktoriaVyshedko/Study-practic5/raw/main/results/custom_augmentation/posterize.png)
+
 AutoContrast
 
+![Иллюстрация к проекту](https://github.com/ViktoriaVyshedko/Study-practic5/raw/main/results/custom_augmentation/Garowe_contrast.png)
+
 Elastic Transform
+
+![Иллюстрация к проекту](https://github.com/ViktoriaVyshedko/Study-practic5/raw/main/results/custom_augmentation/Garowe_transform.png)
 
 Задание 3: Анализ датасета
 
