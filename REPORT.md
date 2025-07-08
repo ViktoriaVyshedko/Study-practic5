@@ -87,7 +87,7 @@ Solarize
 
 Posterize
 
-![Иллюстрация к проекту](https://github.com/ViktoriaVyshedko/Study-practic5/raw/main/results/custom_augmentations/posterize.png)
+![Иллюстрация к проекту](https://github.com/ViktoriaVyshedko/Study-practic5/raw/main/results/custom_augmentations/Garowe_posterize.png)
 
 AutoContrast
 
@@ -106,4 +106,4 @@ Elastic Transform
 
 Визуализация распределения размеров и гистограммы по классам
 
-![Иллюстрация к проекту](https://github.com/ViktoriaVyshedko/Study-practic5/raw/main/results/Tatsumaki_together.png)
+![Иллюстрация к проекту](https://github.com/ViktoriaVyshedko/Study-practic5/raw/main/results/dataset_analysis/visualization.png)
